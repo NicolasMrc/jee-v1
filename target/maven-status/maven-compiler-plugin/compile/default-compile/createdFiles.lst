@@ -1,0 +1,8 @@
+utils/DBConnection.class
+entities/User.class
+repositories/StagiaireRepository.class
+controllers/Controller.class
+repositories/UserRepository.class
+entities/Stagiaire.class
+repositories/Repository.class
+entities/Stage.class
